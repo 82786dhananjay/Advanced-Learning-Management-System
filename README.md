@@ -71,6 +71,6 @@ This project is a personal portfolio piece. However, if you have suggestions or 
 Dhananjay singh  is a passionate full-stack developer specializing in creating modern, responsive web applications with clean code and user-friendly interfaces. This project showcases his ability to combine front-end technologies to build a comprehensive and engaging digital product.
 
   * 🌐 **Digital Portfolio:** [https://akarshyash.github.io/My\_Digital-Card/](https://akarshyash.github.io/My_Digital-Card/)
-  * 📧 **Email:** chaturvediakarsh51@gmail.com
-  * 🔗 **LinkedIn:** [https://www.linkedin.com/in/akarsh-chaturvedi-259271236](https://www.linkedin.com/in/akarsh-chaturvedi-259271236)
+  * 🔗 **LinkedIn:** [https://www.linkedin.com/in/akarsh-chaturvedi-259271236](https://www.linkedin.com/in/dhananjay-singh-446a14339/)
+
 
